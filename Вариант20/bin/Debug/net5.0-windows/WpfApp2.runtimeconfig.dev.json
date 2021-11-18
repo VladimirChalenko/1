@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pushka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pushka\\.nuget\\packages"
+    ]
+  }
+}
